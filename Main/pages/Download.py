@@ -2,7 +2,6 @@ import os
 import time
 
 import streamlit as st
-from menu import menu_with_redirect
 from API import StockManager
 from Welcome import manager
 
