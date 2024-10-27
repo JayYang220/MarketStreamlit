@@ -3,7 +3,7 @@
 This project aims to explore stock prices and display the results through cloud deployment.
 
 ## Please visit the following link:
-https://marketanalysistransformer-mhepqqrftaddccjxhzr9fp.streamlit.app/
+https://marketapp-r5ordxiuz4hispduudmaer.streamlit.app/
 
 ## Version Info
 
