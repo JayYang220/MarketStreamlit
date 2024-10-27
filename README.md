@@ -1,8 +1,11 @@
 # MarketStreamlit
 
-本專案旨在探索股票價格並將結果通過部屬雲端展示
+This project aims to explore stock prices and display the results through cloud deployment.
+Please visit the following link:
+https://marketanalysistransformer-mhepqqrftaddccjxhzr9fp.streamlit.app/
 
 ## Version Info
+
 ### 2024/10/25 version 1.1.1
 -- Fixed some issues.
 
